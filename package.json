@@ -1,0 +1,9 @@
+{
+  "name": "swc-loader",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "swc": "^1.0.0-alpha.12"
+  }
+}
